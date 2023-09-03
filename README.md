@@ -1,16 +1,24 @@
-### Hi there 👋
+# Привет, я "Ибрагим Эгембердиев!
 
-<!--
-**Egemberdiev-Ibragim/egemberdiev-ibragim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Описание о себе и ваших интересах.]
 
-Here are some ideas to get you started:
+## Мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+
+- Email: inthistoru@gmail.com
+- Telegram: @anicrager
+
+## Технологии
+
+- Список технологий и языков программирования, которыми вы занимаетесь.
+
+## Статистика GitHub
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Egemberdiev-Ibragim&show_icons=true&count_private=true)
+
+![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Egemberdiev-Ibragim&layout=compact)
+
+
+
+
